@@ -13,4 +13,4 @@ sum=sum+i;
 
 
 }
-console.log("sumof number is:",sum)
+console.log("sumof number up to",num," is:",sum)
