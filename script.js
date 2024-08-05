@@ -1,6 +1,6 @@
 let num=prompt("Enter the number:")
 if (num>=1 && num<=1000000){
-    console.log("Number:",num)
+    document.writeln(num)
 }
 else{
     alert("Invalid number")
@@ -13,4 +13,4 @@ sum=sum+i;
 
 
 }
-console.log("sumof number up to",num," is:",sum)
+document.writeln("sumof number up to",num," is:",sum)
